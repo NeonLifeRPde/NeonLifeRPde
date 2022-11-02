@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=👋+Hey+there,+I'm+Jxstn...+I+code: Lua, HTML, And CSS">
+<img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=19&lines=👋+Hey+there,+I'm+Jxstn...+I+code: Lua, HTML, And CSS">
 </p>
 
 - 🔭 Owner of : <a href="https://nlrpde.de.cool">**NeonLifeRP.de**</a>
