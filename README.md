@@ -5,6 +5,9 @@
 
 - 🔭 Owner of : <a href="https://nlrpde.de.cool">**NeonLifeRP.de**</a>
 
+
+[<img src="https://novatorem-seven-indol.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/itssjxstn)
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.io/nlrpde)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/neonliferp)
 
