@@ -2,12 +2,11 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=12&vCenter=true&height=19&lines=👋+Hey+there,+I'm+Jxstn...+I+code+Lua">
 </p>
-<img width="38%" src="https://lanyard-profile-readme.vercel.app/api/801925364993359936" /><br>
 
 - 🔭 Owner of : <a href="https://nlrpde.de.cool">**NeonLifeRP.de**</a>
 
 
-[<img src="https://novatorem-seven-indol.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/itssjxstn)
+<img width="38%" src="https://lanyard-profile-readme.vercel.app/api/801925364993359936" /><br>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.io/nlrpde)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/neonliferp)
